@@ -1,6 +1,10 @@
-# weather_app_ui
+عنك# weather_app_ui
+A Flutter weather application that fetches real-time weather data using a REST API.
+🚀 Features:
+- State management using Provider
+- JSON parsing
+- Clean UI built from Figma design
 
-A new Flutter project.
 
 ## Getting Started
 
