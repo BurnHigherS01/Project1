@@ -1,4 +1,3 @@
-عنك# weather_app_ui
 A Flutter weather application that fetches real-time weather data using a REST API.
 🚀 Features:
 - State management using Provider
